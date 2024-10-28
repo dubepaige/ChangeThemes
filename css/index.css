@@ -1,0 +1,71 @@
+
+body {
+    background-color: white;
+    color: black;
+}
+
+.january {
+    background-color: white;
+    color: darkblue;
+}
+
+.february {
+    background-color: lightpink;
+    color: darkmagenta;
+}
+
+.march {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+.april {
+    background-color: #fff3e0;
+    color: #ef6c00;
+}
+
+.may {
+    background-color: orange;
+    color: pink;
+}
+
+.june {
+    background-color: pink;
+    color: orange;
+}
+
+.july {
+    background-color: darkblue;
+    color: white;
+}
+
+.august {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+.september {
+    background-color: orange;
+    color: red;
+}
+
+.october {
+    background-color: black;
+    color: purple;
+}
+
+.november {
+    background-color: white;
+    color: brown;
+}
+
+.december {
+    background-color: green;
+    color: red;
+}
+
+button {
+    background-color: #0288d1;
+    color: white;
+    margin: 5px;
+}
